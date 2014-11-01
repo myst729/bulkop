@@ -1,0 +1,38 @@
+{
+  "name": "bulkop",
+  "version": "0.1.2",
+  "description": "Bulk image optimization tool.",
+  "main": "./lib/bulkop",
+  "dependencies": {
+    "async": "^0.9.0",
+    "colors": "^1.0.3",
+    "imagemin": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myst729/bulkop.git"
+  },
+  "keywords": [
+    "image",
+    "optimization"
+  ],
+  "author": {
+    "name": "Leo Deng"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myst729/bulkop/issues"
+  },
+  "homepage": "https://github.com/myst729/bulkop",
+  "bin": {
+    "bulkop": "./bin/bulkop"
+  },
+  "directories": {
+    "lib": "./lib",
+    "bin": "./bin"
+  }
+}

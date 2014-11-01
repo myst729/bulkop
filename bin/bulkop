@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+var bulkop = require('../lib/bulkop')
+var args = process.argv.slice(2)
+var basedir = process.cwd()
+var subdir = args.length ? args[0] : ''
+
+bulkop(basedir, subdir)
