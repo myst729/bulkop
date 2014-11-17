@@ -1,4 +1,4 @@
-# bulkop [![npm version](https://badge.fury.io/js/bulkop.svg)](http://badge.fury.io/js/bulkop) [![build status](https://travis-ci.org/myst729/bulkop.svg?branch=master)](https://travis-ci.org/myst729/bulkop)
+# bulkop [![npm version](https://badge.fury.io/js/bulkop.svg)](https://www.npmjs.org/package/bulkop) [![build status](https://travis-ci.org/myst729/bulkop.svg)](https://travis-ci.org/myst729/bulkop)
 
 Bulk image optimization tool.
 
