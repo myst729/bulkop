@@ -44,7 +44,7 @@ bulkop images/
 
 ## Screenshot
 
-![Bulkop](https://raw.githubusercontent.com/myst729/bulkop/master/screenshots/screenshot.png)
+<img src="https://raw.githubusercontent.com/myst729/bulkop/master/screenshots/screenshot.png" height="250" width="360" alt="Bulkop">
 
 
 ## License
