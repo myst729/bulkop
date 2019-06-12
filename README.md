@@ -49,4 +49,4 @@ bulkop images/
 
 ## License
 
-MIT © [Leo Deng](http://myst729.github.io/)
+MIT © [Leo](https://myst729.github.io/)
